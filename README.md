@@ -39,25 +39,25 @@ This step includes handling missing values, correcting inconsistent data entries
 3. Data Exploration
 Exploring the dataset to understand the distribution of different variables, identifying patterns, and uncovering interesting insights.
 
-a. Distribution of Content Types
-b. Trends in Release Year
-c. Popular Genres
+     a. Distribution of Content Types
+     b. Trends in Release Year
+     c. Popular Genres
 
 4. User Engagement Analysis
 Analyzing user engagement patterns based on content type, release year, and ratings.
 
-a. Content Added Over Time
-b. Distribution of Ratings
+     a. Content Added Over Time
+     b. Distribution of Ratings
 
 5. Geographic Analysis
 Analyzing the distribution of content based on the country of production.
 
-a. Content by Country
+     a. Content by Country
 
 6. Interactive Visualizations
 Using Plotly to create interactive visualizations for a more engaging exploration of the data.
 
-a. Interactive Content Map
+    a. Interactive Content Map
 
 # Conclusion
 Through this data analysis, we have uncovered various insights into Netflix's content library, such as popular genres, trends in release years, and distribution of content by country and ratings. These insights can help understand Netflix's content strategy and user preferences.
